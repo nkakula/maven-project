@@ -1,0 +1,1 @@
+This is sample line to test the push from local to git repo and also to test the SCM polling in Jenkins
